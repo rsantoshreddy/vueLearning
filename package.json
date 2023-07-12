@@ -1,0 +1,17 @@
+{
+  "name": "vuelearning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite src"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^3.0.7"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9"
+  }
+}
